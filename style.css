@@ -220,7 +220,7 @@ th{
 #gallery{
     display: flex;
     flex-direction: column;
-    height: 1350px;
+    height: 2000px;
     justify-content: center;
     align-items: center;
     background: url(images/Flower\ background.jpg) no-repeat center center/cover;
